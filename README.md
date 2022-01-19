@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *Harini"
+- 👋 Hi, I’m *Harini*
 - 👀 I’m interested in *Coding*
 - 🌱 I’m currently learning *B. E(CSE) second year*
 - 💞️ I’m looking to collaborate on *software industry*
